@@ -75,4 +75,5 @@ The dashboard provides insights into:
 Business Analytics | Data Analytics | Power BI
 
 #
-![Boxify dashboard](Boxify_customer_churn_analysis.png)
+![Boxify Dashboard](Boxify_customer_churn_analysis.png)
+
