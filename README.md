@@ -73,3 +73,6 @@ The dashboard provides insights into:
 **Chaithra B R**
 
 Business Analytics | Data Analytics | Power BI
+
+#
+![dashboard][Boxify_customer_churn_analysis.png]
